@@ -1,0 +1,4 @@
+#Development Journal #2
+##Joe Gibson
+
+We are going to use Android Studio to program our app. We plan on including a graphing mechanism so that the user can use past data to plan future workouts. In other words, it is going to make an exponential graph based on approximately 5 days of data so that the user can see progress and choose a resistance best suited for them at that time. We outlined our GUI and plan to make things as simple as possible by using "hamburgers" and categorized menus. Our categories are the Journal, Calorie Keeper, Workout Planner, and a settings page where the user will be able to enable different languages on the app. We plan on soon making the GUI for the app. From there, we can then add these functions and capabilities such as the workout planner and calorie keeper. We plan on having a GUI ready to go by the first deliverable and have more experience with the software.
